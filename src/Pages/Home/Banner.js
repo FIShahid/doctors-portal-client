@@ -16,7 +16,7 @@ const Banner = () => {
           <div>
             <h1 class="text-5xl font-bold">Your New Smile Starts Here</h1>
             <p class="py-6">We take care of your mouth like an angel. We taking care of your teeth. We want to make you smile! We're here to help.A smile you will love, an experience you will enjoy.</p>
-            <button class="btn btn-primary">Get Started</button>
+            <button class="btn btn-primary uppercase text-white font-bold bg-gradient-to-r from-secondary to-primary">Get Started</button>
           </div>
         </div>
       </div>
